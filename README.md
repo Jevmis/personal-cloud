@@ -222,7 +222,7 @@ The infrastructure is being built step-by-step while documenting each decision a
 
 ## 👨‍💻 Author
 
-**Michael Jackson Ndueso**
+Michael Jackson Ndueso
 
 QA Engineer | SDET | Test Automation Specialist
 
